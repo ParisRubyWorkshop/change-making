@@ -17,8 +17,12 @@ Si vous rencontrez des problèmes avec ce problème (ou que cela semble prendre 
 
  Et le rendu de monnaie demandant le moins de pièces est ici 10, soit une pièce (de 10 en l'occurence, si vous avez bien suivi ;-) )
 
- avec comme valeurs des pièces les valeurs [1, 2, 5], en appelant notre fonction rec_coin(valeur_cible, [valeur_unitaire_monnaie, ...]), on aura:
+ avec comme valeurs des pièces les valeurs [1, 2, 5], en appelant notre fonction rec_coin(valeur_cible, [valeur_unitaire_monnaie, ...]),
+ 
+  on aura:
+
  rec_coin(17, [1, 2, 5]) = 4 (soit 5 + 5 + 5 + 2)
+ 
  rec_coin(23, [1, 2, 5]) = 6 (soit 5 + 5 + 5 + 5 + 2 + 1)
 
 Ceci est un bon prétexte pour écrire vos tests et faire du Test-Driven Development (TDD), j'dis ça, j'dis rien...
