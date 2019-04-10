@@ -1,6 +1,6 @@
 # Problème du rendu de monnaie en le moins de "pièces" possible
 
-### Remarque: ce problème a plusieurs solutions et est un classique des problèmes utilisant avec la récursivité.
+### Remarque: ce problème a plusieurs solutions et est un classique des problèmes utilisant la récursivité.
 
 Si vous rencontrez des problèmes avec ce problème (ou que cela semble prendre beaucoup de temps dans certains cas), consultez la page wikipedia, car ce problème est assez courant et a, en fait, sa propre [entrée Wikipedia (en)](https://en.wikipedia.org/wiki/Change-making_problem) ou [entrée Wikipedia (fr)](https://fr.wikipedia.org/wiki/Problème_du_rendu_de_monnaie)! 
 
